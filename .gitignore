@@ -14,3 +14,7 @@ assignments/folder/Primitives/Release/
 .vs
 .vs
 .vs
+
+*.fxo
+
+*.cod
